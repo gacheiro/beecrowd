@@ -3,6 +3,7 @@
 
 
 def notas_iguais(notas_a, notas_b):
+    'Retorna o número de notas iguais na mesma posição.'
     return sum(1 for a, b in zip(notas_a, notas_b) if a == b)
 
 
