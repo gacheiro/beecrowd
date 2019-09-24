@@ -1,5 +1,7 @@
 _*
 contests/
+*.in
+*.out
 
 # Windows image file caches
 Thumbs.db
