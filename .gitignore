@@ -1,8 +1,11 @@
 _*
 contests/
 *.in
+*.in.*
 *.out
+*.out.*
 .vscode
+.tmp.rs
 
 # Windows image file caches
 Thumbs.db
