@@ -1,2 +1,5 @@
-# PyURI
-Soluções de questões do URI Online Judge em Python... e algumas em Ruby e Clojure! Praticando um pouco :)
+# Beecrowd solutions
+
+PLEASE don't copy this solutions before you try yourself on [https://judge.beecrowd.com](https://judge.beecrowd.com)
+
+My profile there is: [https://judge.beecrowd.com/en/profile/798](https://judge.beecrowd.com/en/profile/798)
